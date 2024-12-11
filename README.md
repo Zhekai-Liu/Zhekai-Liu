@@ -6,8 +6,8 @@
         </a>
     </p>
     <div style="text-align: center;">
-    <p>🔭 My research interests is Mathematics and Black-box prompt learning</p>
-    <p>🌱 I’m currently learning Machine learning and Derivative-Free Optimization</p>
+    <p>🔭 My research interests is Machine Learning and Black-box Optimization</p>
+    <p>🌱 I’m currently learning Adversarial attack and Derivative-Free Optimization</p>
     <p>📫 How to reach me: <a href="mailto:Liu_Zhekai@outlook.com">Liu_Zhekai@outlook.com</a></p>
 </div>
 </div>
